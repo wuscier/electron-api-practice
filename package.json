@@ -1,0 +1,41 @@
+{
+  "name": "electron-api-practice",
+  "version": "1.0.0",
+  "description": "how to use electron apis.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuscier/electron-api-practice.git"
+  },
+  "author": "wu xu",
+  "license": "MIT",
+    "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^6.0.0",
+    "devtron": "^1.3.0",
+    "electron": "~1.6.2",
+    "electron-packager": "^8.6.0",
+    "electron-winstaller": "^2.2.0",
+    "mocha": "^3.1.0",
+    "npm-run-all": "^4.0.2",
+    "request": "^2.70.0",
+    "rimraf": "^2.5.2",
+    "signcode": "^0.5.0",
+    "spectron": "~3.6.0",
+    "standard": "^8.2.0"
+  },
+  "dependencies": {
+    "electron-settings": "^3.0.7",
+    "electron-shortcut-normalizer": "^1.0.0",
+    "glob": "^7.1.0",
+    "highlight.js": "^9.3.0"
+  },
+
+  "bugs": {
+    "url": "https://github.com/wuscier/electron-api-practice/issues"
+  },
+  "homepage": "https://github.com/wuscier/electron-api-practice#readme"
+}

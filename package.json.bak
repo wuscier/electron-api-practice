@@ -1,0 +1,19 @@
+{
+  "name": "electron-api-practice",
+  "version": "1.0.0",
+  "description": "how to use electron apis.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuscier/electron-api-practice.git"
+  },
+  "author": "wu xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuscier/electron-api-practice/issues"
+  },
+  "homepage": "https://github.com/wuscier/electron-api-practice#readme"
+}
